@@ -28,7 +28,7 @@ Get-AzLocation | Format-Table -Property Location, DisplayName
 ## Additional Resources
 
 - [MS | Docs | New-AzResourceGroup][1]
-- [MS | Docs | New-AzResourceGroup][2]
+- [MS | Docs | Get-AzLocations][2]
 
 <!-- Reference Links -->
 
