@@ -28,7 +28,9 @@ Get-AzLocation | Format-Table -Property Location, DisplayName
 ## Additional Resources
 
 - [MS | Docs | New-AzResourceGroup][1]
+- [MS | Docs | New-AzResourceGroup][2]
 
 <!-- Reference Links -->
 
 [1]: https://docs.microsoft.com/en-us/powershell/module/az.resources/new-azresourcegroup?view=azps-5.7.0
+[2]: https://docs.microsoft.com/en-us/powershell/module/az.resources/get-azlocation?view=azps-5.7.0
